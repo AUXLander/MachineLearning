@@ -1,1 +1,1 @@
-jupyter notebook --notebook-dir=E:\UserData\Projects\MachineLearning
+jupyter notebook --notebook-dir=F:\UserData\Projects\MachineLearning
