@@ -1,3 +1,5 @@
 /videos/
 /kungfu_videos/
 /__pycache__/
+/.ipynb_checkpoints/
+*.exe
